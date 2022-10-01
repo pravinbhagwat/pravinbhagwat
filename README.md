@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data Structure and Algorithms, MERN Stack**
 
-- 📫 How to reach me **pravinbhagwat150@gmail.com**
+- 📫 How to reach me **pravinbhagwat150@gmail.com** | **http://wa.me/917887630450**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
