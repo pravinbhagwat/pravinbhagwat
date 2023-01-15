@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Pravin Bhagwat</h1>
 <h3 align="center">An aspiring Software Developer, Programmer and a Problem Solver.</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Android Development**
+- 🌱 I’m currently learning **MERN Stack, Android Development and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pravinbhagwat](https://github.com/pravinbhagwat)
 
-- 💬 Ask me about **Data Structure and Algorithms, MERN Stack**
+- 💬 Ask me about **Data Structure and Algorithms, MERN Stack, SpringBoot**
 
 - 📫 How to reach me **pravinbhagwat150@gmail.com** | **http://wa.me/917887630450**
 
